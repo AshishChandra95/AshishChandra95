@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish Chandra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="Code" width="400" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg&ga=GA1.1.553209589.1714435200&semt=ais">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishchandra95&label=Profile%20views&color=0e75b6&style=flat" alt="ashishchandra95" /> </p>
 
 - 📫 How to reach me **ashishchandra961@gmail.com**
